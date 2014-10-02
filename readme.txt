@@ -69,9 +69,10 @@ Nashr Supports: Google, Ping, Alexa, Facebook, Google+, Twitter, Pinterest, Yand
   
      
 == Installation ==
-1.Upload `NashrSEO` zip file to the `/wp-content/plugins/` directory
-2.Activate the plugin through the 'Plugins' menu in WordPress
-3.Go to(Nashr SEO)page and post types you want the plugin work on   
+
+1. Upload `NashrSEO` zip file to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Go to(Nashr SEO)page and post types you want the plugin work on 
 
 == Screenshots ==
 1. screenshot-1.png SEO meta content (title,description, ect..)
