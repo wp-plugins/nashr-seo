@@ -3,7 +3,7 @@ Contributors:(mnbaaco)
 Tags: bing,canonical, description, google,google webmaster tools, keywords, meta, meta description, meta keywords, nofollow, noindex, robots meta, search engine optimization, seo, seo pack, Webmaster Tools, wordpress seo, nashr seo by mnbaa,yahoo,mnbaa,mnbaa seo,pinterest,alexa
 Requires at least: 3.4.0
 Tested up to: 4.0
-Stable tag: 1.0
+Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
