@@ -7,7 +7,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-simple and easy way to optimize your wordpress website for search engine and social media 
+Simple and easy way to optimize your wordpress website for search engines and social media websites 
 
 == Description ==
 
