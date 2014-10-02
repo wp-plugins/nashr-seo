@@ -43,33 +43,30 @@ Nashr Supports: Google, Ping, Alexa, Facebook, Google+, Twitter, Pinterest, Yand
    * Yandex webmaster tool 
 
 **Supported meta tags**
-
-  * title
-  * description
-  * keywords
-  * robots
-  * author
-  * og:title
-  * og:type
-  * og:image
-  * og:description
-  * og:locale
-  * og:url
-  * og:site_name
-  * og:updated_time
-  * article:published_time
-  * article:modified_time
-  * fb:app_id
-  * fb:admins
-  * twitter:creator
-  * twitter:card
-  * google-site-verification
-  * alexaVerifyID
-  * msvalidate
-  * p:domain_verify
-  * yandex-verification
-  
-     
+   * title
+   * description
+   * keywords
+   * robots
+   * author
+   * og:title
+   * og:type
+   * og:image
+   * og:description
+   * og:locale
+   * og:url
+   * og:site_name
+   * og:updated_time
+   * article:published_time
+   * article:modified_time
+   * fb:app_id
+   * fb:admins
+   * twitter:creator
+   * twitter:card
+   * google-site-verification
+   * alexaVerifyID
+   * msvalidate
+   * p:domain_verify
+   * yandex-verification    
 == Installation ==
 
 1. Upload `NashrSEO` zip file to the `/wp-content/plugins/` directory
