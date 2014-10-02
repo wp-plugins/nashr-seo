@@ -15,12 +15,13 @@ Nashr SEO is wordpress plugin that help you by simple and fast way to optimize y
 Nashr Supports: Google, Ping, Alexa, Facebook, Google+, Twitter, Pinterest, Yandex .
 
 **Features**
+
 1. Search engine optimization : Google, Ping, Etc ...
    * Title 
    * Description 
    * Keywords 
    * Robots 
-   * Google+ auther 
+   * Google+ auther  
 2. Social media optimization : Facebook, Twitter, Google+ .
    * Title
    * Type
@@ -42,6 +43,7 @@ Nashr Supports: Google, Ping, Alexa, Facebook, Google+, Twitter, Pinterest, Yand
    * Yandex webmaster tool 
 
 **Supported meta tags**
+
   * title
   * description
   * keywords
@@ -72,7 +74,8 @@ Nashr Supports: Google, Ping, Alexa, Facebook, Google+, Twitter, Pinterest, Yand
 
 1. Upload `NashrSEO` zip file to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Go to(Nashr SEO)page and post types you want the plugin work on 
+3. Go to(Nashr SEO)page and post types you want the plugin work on
+  
 
 == Screenshots ==
 1. screenshot-1.png SEO meta content (title,description, ect..)
@@ -90,8 +93,8 @@ Nashr Supports: Google, Ping, Alexa, Facebook, Google+, Twitter, Pinterest, Yand
 * adding open graph settings.
 * select posts,custome posts,pages the plugin will work on 
 
-= Translations =
+== Translations ==
 * English
 * Arabic
 
-
+If you have made a translation and want to contribute with it to Nashr SEO, please e-mail us.
