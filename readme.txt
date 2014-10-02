@@ -43,6 +43,7 @@ Nashr Supports: Google, Ping, Alexa, Facebook, Google+, Twitter, Pinterest, Yand
    * Yandex webmaster tool 
 
 **Supported meta tags**
+
    * title
    * description
    * keywords
