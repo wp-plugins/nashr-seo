@@ -12,7 +12,7 @@ Simple and easy way to optimize your wordpress website for search engines and so
 == Description ==
 
 Nashr SEO is wordpress plugin that help you by simple and fast way to optimize your wordpress web site for search engines and social media websites 
-Nashr Supports: Google, Ping, Alexa, Facebook, Google+, Twitter, Pinterest, Yandex .
+Nashr Supports: Google, Ping, Alexa, Facebook, Google+, Twitter, Pinterest, Yandex ..
 
 **Features**
 
