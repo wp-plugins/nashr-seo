@@ -1,4 +1,4 @@
-=== Nashr SEO ===
+=== NASHR SEO ===
 Contributors:(mnbaaco)
 Tags: bing,canonical, description, google,google webmaster tools, keywords, meta, meta description, meta keywords, nofollow, noindex, robots meta, search engine optimization, seo, seo pack, Webmaster Tools, wordpress seo, nashr seo by mnbaa,yahoo,mnbaa,mnbaa seo,pinterest,alexa
 Requires at least: 3.4.0
