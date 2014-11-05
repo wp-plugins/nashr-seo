@@ -84,6 +84,8 @@ Nashr Supports: Google, Ping, Alexa, Facebook, Google+, Twitter, Pinterest, Yand
 
 
 == Changelog ==
+= 1.2 = 
+*working with multisite 
 
 = 1.0 =
 * wordpress posts and pages SEO meta(title,description,keywords).

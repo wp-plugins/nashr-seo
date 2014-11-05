@@ -5,7 +5,7 @@ Plugin URI: http://www.mnbaa.com/en/%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA/%D9%86%
 Description: wordpress plugin you can use to optimize your website for search engines and social media websites .
 Author: Mnbaa CO
 Author URI: http://www.mnbaa.com
-Version: 1.0
+Version: 1.2
 Text Domian:mnbaa-seo
 Domain Path: /languages
 */
