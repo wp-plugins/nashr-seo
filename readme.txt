@@ -93,12 +93,12 @@ Nashr Supports: Google, Ping, Alexa, Facebook, Google+, Twitter, Pinterest, Yand
 
 == Changelog ==
 = 1.3 = 
-*adding meta tags to caterories .
-*adding meta tags to custome taxonomies .
-*create page to work with archives seperatly .
-*automate frontpage configurations.
+* adding meta tags to caterories .
+* adding meta tags to custome taxonomies .
+* create page to work with archives seperatly .
+* automate frontpage configurations.
 = 1.2 = 
-*working with multisite 
+* working with multisite 
 
 = 1.0 =
 * wordpress posts and pages SEO meta(title,description,keywords).
