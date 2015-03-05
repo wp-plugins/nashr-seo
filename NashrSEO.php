@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Mnbaa Nashr SEO 
+Plugin Name: Nashr SEO 
 Plugin URI: http://nashr-seo.mnbaa.com/
 Description: wordpress plugin you can use to optimize your website for search engines and social media websites .
 Author: Mnbaa CO
