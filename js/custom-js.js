@@ -12,7 +12,7 @@ jQuery(function(jQuery) {
             formfield.val(id);
             preview.attr('src', imgurl);
             tb_remove();
-        }
+        };
         return false;
     });
      

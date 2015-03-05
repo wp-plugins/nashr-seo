@@ -14,6 +14,14 @@ $socialMediaItems =array(
 
 // general SEO fileds
 $SEO_meta_fields = array(
+		array(
+				'label'	=> __('Snippet Preview','mnbaa-seo'),
+				'prop'  => 'property',
+				'val'  	=> 'og:description ',
+				'name'  => $prefix.'facebook_description',
+				'type'  => 'snippet',
+				'desc'  =>__( 'This is a rendering of what this post might look like in Google search results.','mnbaa-seo')
+			),
 	
 	array(
 		'label'	=> __('Description','mnbaa-seo'),
@@ -36,7 +44,7 @@ $SEO_meta_fields = array(
 		'prop'  => 'name',
 		'val'	=> 'keywords',
 		'name'  => $prefix.'keywords',
-		'type'  => 'textarea',
+		'type'  => 'div',
 		'desc'  => __('keywords that related to content EX:(car,motors,spare parts)','mnbaa-seo')
 	),
 	array(
@@ -44,9 +52,72 @@ $SEO_meta_fields = array(
 		'prop'  => 'name',
 		'val'	=> 'robots',
 		'name'  => $prefix.'robots',
-		'type'  => 'textarea',
-		'desc'  => __('How makes content available through search results.EX:noindex, nofollow','mnbaa-seo')
-		
+		'type'  => 'robots',
+		'desc'  => __('How makes content available through search results.EX:noindex, nofollow','mnbaa-seo'),
+		'fields' 	=> array(
+							array (
+								'label'		=> __('','mnbaa-seo'),
+								'prop'  	=> 'name',
+								'val'   	=> 'robots',
+								'name'  	=> $prefix.'robots_index',
+								'type'  	=> 'select',
+								'desc'  	=> __("Allow search engines robots to index the page or not .",'mnbaa-seo'),
+								'options' 	=> array (__('index','mnbaa-seo'),__('noindex','mnbaa-seo'))),
+								array (
+									'label'		=> __('','mnbaa-seo'),
+									'prop'  	=> 'name',
+									'val'   	=> 'robots',
+									'name'  	=> $prefix.'robots_follow',
+									'type'  	=> 'select',
+									'desc'  	=> __("Tells the search engines robots to follow the links on the page or not .",'mnbaa-seo'),
+									'options' 	=> array (__('follow','mnbaa-seo'),__('nofollow','mnbaa-seo'))),
+								array (
+									'label'		=> __('noarchive','mnbaa-seo'),
+									'prop'  	=> 'name',
+									'val'   	=> 'robots',
+									'name'  	=> $prefix.'robots_noarchive',
+									'type'  	=> 'checkbox',
+									'desc'  	=> __("Prevents the search engines from showing a cached copy of this page.",'mnbaa-seo'),
+									'value' 	=> 'noarchive'),
+									
+								array (
+									'label'		=> __('nocache','mnbaa-seo'),
+									'prop'  	=> 'name',
+									'val'   	=> 'robots',
+									'name'  	=> $prefix.'robots_nocache',
+									'type'  	=> 'checkbox',
+									'desc'  	=> __("Same as noarchive, but only used by MSN/Live.",'mnbaa-seo'),
+									'value' 	=> 'nocache'),
+									
+								array (
+									'label'		=> __('nosnippet','mnbaa-seo'),
+									'prop'  	=> 'name',
+									'val'   	=> 'robots',
+									'name'  	=> $prefix.'robots_nosnippet',
+									'type'  	=> 'checkbox',
+									'desc'  	=> __("Prevents the search engines from showing a snippet of this page in the search results",'mnbaa-seo'),
+									'value' 	=> 'nosnippet'),	
+									
+								array (
+									'label'		=> __('noodp','mnbaa-seo'),
+									'prop'  	=> 'name',
+									'val'   	=> 'robots',
+									'name'  	=> $prefix.'robots_noodp',
+									'type'  	=> 'checkbox',
+									'desc'  	=> __("Blocks search engines from using the description for this page in DMOZ (aka ODP) as the snippet for your page in the search results.",'mnbaa-seo'),
+									'value' 	=> 'noodp'),	
+									
+								array (
+									'label'		=> __('noydir','mnbaa-seo'),
+									'prop'  	=> 'name',
+									'val'   	=> 'robots',
+									'name'  	=> $prefix.'robots_noydir',
+									'type'  	=> 'checkbox',
+									'desc'  	=> __("Blocks Yahoo! from using the description for this page in the Yahoo! directory",'mnbaa-seo'),
+									'value' 	=> 'noydir'),		
+						
+					)
+					
 		 
 	),
 	array(
@@ -116,6 +187,8 @@ $SM_meta_fields = array(
 	)
 		
 );
+
+
 // seo setting titles
 $settingSocialMediaItems = array(
 						array(

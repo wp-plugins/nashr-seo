@@ -2,7 +2,7 @@
 Contributors:(mnbaaco)
 Tags: bing,canonical, description, google,google webmaster tools, keywords, meta, meta description, meta keywords, nofollow, noindex, robots meta, search engine optimization, seo, seo pack, Webmaster Tools, wordpress seo, nashr seo by mnbaa,yahoo,mnbaa,mnbaa seo,pinterest,alexa
 Requires at least: 3.4.0
-Tested up to: 4.0
+Tested up to: 4.1.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -41,6 +41,14 @@ Nashr Supports: Google, Ping, Alexa, Facebook, Google+, Twitter, Pinterest, Yand
    * Bing webmaster tool 
    * Pintrest verivication 
    * Yandex webmaster tool 
+6. categories , custome taxonomies and archives 
+   * all meta tags for  all categories and taxonomies and archive pages 
+   * stand alone configuration for every archive 
+   * Open graph from to all archives , categories and taxonomies 
+7. Front page auto detecting  
+   * support tage for index page sperated from statice front page 
+
+
 
 **Supported meta tags**
 
@@ -84,6 +92,11 @@ Nashr Supports: Google, Ping, Alexa, Facebook, Google+, Twitter, Pinterest, Yand
 
 
 == Changelog ==
+= 1.3 = 
+*adding meta tags to caterories .
+*adding meta tags to custome taxonomies .
+*create page to work with archives seperatly .
+*automate frontpage configurations.
 = 1.2 = 
 *working with multisite 
 
