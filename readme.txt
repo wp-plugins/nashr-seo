@@ -93,6 +93,9 @@ Nashr Supports: Google, Ping, Alexa, Facebook, Google+, Twitter, Pinterest, Yand
 
 == Changelog ==
 
+= 1.4 = 
+* wordpress 4.2 version compatibility.
+
 = 1.3 = 
 * adding meta tags to caterories .
 * adding meta tags to custome taxonomies .
