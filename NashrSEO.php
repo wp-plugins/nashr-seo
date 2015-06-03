@@ -5,7 +5,7 @@ Plugin URI: http://nashr-seo.mnbaa.com/
 Description: wordpress plugin you can use to optimize your website for search engines and social media websites .
 Author: Mnbaa CO
 Author URI: http://www.mnbaa.com
-Version: 1.4
+Version: 1.5
 Text Domian:mnbaa-seo
 Domain Path: /languages
 */
