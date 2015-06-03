@@ -1,19 +1,8 @@
 <form action="" method="post" enctype="multipart/form-data">
     <table class="form-table">
-    <tr>
-       
-        <th colspan="2"><h1><?php  echo  __('General Settings','mnbaa-seo'); ?></h1></th>
-        </tr>
+    
    
-          <tr>
-			<th>
-			 <?php  echo  __('Upgrade to full version','mnbaa-seo'); ?>
-			</th>
-			<td>
-				 <?php  $version=get_option('mnbaa_seo_private_update'); ?>
-				<input type="checkbox"  id="version" name="mnbaa_seo_private_update"  value="<?php echo $version ;?>" <?php echo ($version=='TRUE') ?'checked' : '' ?>/>
-			</td>
-         </tr>   
+        
          
         <tr>
       
