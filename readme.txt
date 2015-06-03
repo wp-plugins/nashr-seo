@@ -93,6 +93,9 @@ Nashr Supports: Google, Ping, Alexa, Facebook, Google+, Twitter, Pinterest, Yand
 
 == Changelog ==
 
+= 1.5 = 
+* code enhancement to run faster
+
 = 1.4 = 
 * wordpress 4.2 version compatibility.
 
