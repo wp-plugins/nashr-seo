@@ -27,7 +27,8 @@ Nashr Supports: Google, Ping, Alexa, Facebook, Google+, Twitter, Pinterest, Yand
    * Type
    * Image
    * Description
-   * Twitter card 
+   * Twitter card
+   * Facebook author 
 3. General settings 
    * Posts and pages the plugin will work on 
 4. Social media settings 
@@ -92,6 +93,9 @@ Nashr Supports: Google, Ping, Alexa, Facebook, Google+, Twitter, Pinterest, Yand
 
 
 == Changelog ==
+
+= 1.6 = 
+* facebook author meta tage adding 
 
 = 1.5 = 
 * code enhancement to run faster

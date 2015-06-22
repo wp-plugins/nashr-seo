@@ -185,6 +185,15 @@ $SM_meta_fields = array(
 			__('player','mnbaa-seo')
 		)
 	)
+	,
+	array(
+		'label'=> __('Facebook Author Account','mnbaa-seo'),
+		'prop'  => 'property',
+		'val'	=> 'article:author',
+		'name'    => $prefix.'fb_author',
+		'type'  => 'text',
+		'desc'  => __('An array of Facebook profile URLs or IDs of the authors for this article','mnbaa-seo')
+	)
 		
 );
 
@@ -229,6 +238,7 @@ $facebook_seo_meta_setting = array(
 		'type'  => 'text',
 		'desc'  => __('Id of facebook account that create the facebook application','mnbaa-seo')
 	)
+
 );
 
 $twitter_seo_meta_setting = array(
